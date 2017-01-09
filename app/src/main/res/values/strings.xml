@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">终端测试</string>
+    <string name="action_settings">设置</string>
+    <string name="edit_command">指令编辑</string>
+
+    <string name="default_ip">182.254.214.210</string>
+    <string name="default_port">9999</string>
+    <string name="imei">IMEI</string>
+    <string name="comm_ascii">ASCII</string>
+    <string name="comm_hex">十六进制</string>
+    <string name="service_ip">服务器IP</string>
+    <string name="service_port">服务器端口</string>
+
+    <string name="connect">连接</string>
+    <string name="dicconnect">断开</string>
+    <string name="send">发送</string>
+    <string name="clear">清空</string>
+
+</resources>
